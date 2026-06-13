@@ -1,0 +1,8 @@
+## Interface: 11508
+## Title: LegacyAttendance
+## Notes: Helper for Legacy raid attendance tracking.
+## Version: 1.0
+## SavedVariables: LegacyAttendanceSettings
+## Author: MrSmellybeard
+
+LegacyAttendance.lua
