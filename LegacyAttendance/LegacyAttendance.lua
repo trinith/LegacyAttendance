@@ -30,6 +30,7 @@ local Constants = {
 	RaiderRanks = {
 		"Raider",
 		"Officer",
+		"Guild Master",
 	},
 
 	AddonName = "LegacyAttendance",
